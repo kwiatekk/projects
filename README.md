@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Witaj na stronie z pojektami.
+
+Sprawdź moje projekty:
+[Projekt html z csss](https://kwiatekk.github.io/git2/)
 
 You can use the [editor on GitHub](https://github.com/kwiatekk/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
