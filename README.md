@@ -1,7 +1,25 @@
-## Witaj na stronie z pojektami.
+# Witaj na stronie z pojektami.
 
 Sprawdź moje projekty:
 [Projekt html z csss](https://kwiatekk.github.io/git2/)
+
+## - projekt wordpress
+- projekt angular
+
+Sprawdź mój kod
+```php
+
+<?php
+if ( is_home() ) :
+    get_header( 'home' );
+elseif ( is_404() ) :
+    get_header( '404' );
+else :
+    get_header();
+endif;
+?>
+ 
+```
 
 You can use the [editor on GitHub](https://github.com/kwiatekk/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
